@@ -9,3 +9,5 @@ devenv.local.yaml
 # pre-commit
 .pre-commit-config.yaml
 blind_watermark/__pycache__
+input
+output
